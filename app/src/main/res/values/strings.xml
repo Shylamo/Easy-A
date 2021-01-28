@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sign Up etd</string>
+    <string-array name="Niveaux">
+        <item>Licence SMI</item>
+        <item>Licence SMA</item>
+        <item>Master STRI</item>
+        <item>Master ISI</item>
+        <item>Master EIREE</item>
+        <item>Doctorats Maths et informatiques</item>
+    </string-array>
+</resources>
