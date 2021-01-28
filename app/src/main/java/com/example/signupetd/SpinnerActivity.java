@@ -14,7 +14,5 @@ public class SpinnerActivity extends Activity implements AdapterView.OnItemSelec
         Spinner spinner = (Spinner) findViewById(R.id.Niveaux_etd);
         spinner.setOnItemSelectedListener(this);
     }
-    public void onNothingSelected(AdapterView<?> parent) {
-        // Another interface callback
-    }
+
 }
